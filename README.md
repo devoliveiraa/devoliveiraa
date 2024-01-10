@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Oliveira Dev</h1>
+<h1 align="center">Hi 👋, I'm Lucas Oliveira</h1>
 
 - 💻 Junior Front-End Developer
 
