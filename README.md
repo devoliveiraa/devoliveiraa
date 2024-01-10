@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Oliveira Dev</h1>
 
-[![Lucas Oliveira Dev stats](https://github-readme-stats.vercel.app/api?username=devoliveiraa)](https://github.com/anuraghazra/github-readme-stats)
+- 💻 Junior Front-End Developer
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devoliveiraa&layout=compact)
 
 ## 🛠 Languages and Tools:
 
