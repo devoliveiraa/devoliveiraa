@@ -2,8 +2,6 @@
 
 - 💻 Junior Front-End Developer
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devoliveiraa&layout=compact)
-
 ## 🛠 Languages and Tools:
 
 <div style="display: inline_block">
