@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Oliveira</h1>
 
-- 💻 Junior Front-End Developer
+- 💻 Front-End Developer
 
 ## 🛠 Languages and Tools:
 
